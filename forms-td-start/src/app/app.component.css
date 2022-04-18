@@ -1,0 +1,35 @@
+
+.container {
+  margin-top: 30px;
+
+}
+#con{
+  border: 1px solid darkred;
+  box-shadow: 1px 2px 6px 2px ;
+  padding: 30px;
+  height: 550px;
+  background-color: bisque;
+  width: 550px;
+}
+input.ng-invalid.ng-touched{
+  border: 2px solid red;
+}
+input.ng-valid.ng-touched{
+  border: 2px solid green;
+}
+.radio{
+  display: inline-block;
+}
+#userdata{
+display: inline-block;
+position: relative;
+text-transform: capitalize;
+background-color: darkcyan;
+color: aliceblue;
+left: 550px;
+bottom: 400px;
+width: 300px;
+box-shadow: 2px 4px 10px 2px black;
+
+}
+
