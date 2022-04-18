@@ -1,0 +1,23 @@
+.container{
+    position: relative;
+    left: 450px;
+    top: 100px;
+}
+.container-fluid{
+    margin-bottom: 50px;
+    position: absolute;
+    left: 50px;
+    
+    
+}
+#bt{
+    margin: 30px;
+    position: relative;
+    left: 10px;
+ 
+}#btq{
+    position: absolute;
+    left: 200px;
+    top: 140px;
+
+}
